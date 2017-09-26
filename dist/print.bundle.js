@@ -1,0 +1,11 @@
+webpackJsonp([0],{
+
+/***/ 4:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(__webpack_exports__, \"__esModule\", { value: true });\n//export default {\r\n//\tprintMe() {\r\n\t\t/*var str = 'no I get called from print.js!'\r\n\t\tconsole.log(str);\r\n\t\tvar element = document.createElement(\"h2\");\r\n    \telement.innerHTML = str;\r\n    \treturn element;*/\r\n//    \tconsole.log(\"123445?\")\r\n//    \tvar element = document.createElement(\"h1\");\r\n//    \telement.innerHTML = \"不要加扩展名 坑比 world!\";\r\n//    \treturn element;\r\n//\t} \r\n//}\r\n\r\nconsole.log(\"The print.js module has loaded! See the network tab in dev tools...\");\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (() => {\r\n    console.log(\"Button Clicked: Here\\'s 'some text'!\");\r\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiNC5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3NyYy9wcmludC5qcz9kYzM4Il0sInNvdXJjZXNDb250ZW50IjpbIi8vZXhwb3J0IGRlZmF1bHQge1xyXG4vL1x0cHJpbnRNZSgpIHtcclxuXHRcdC8qdmFyIHN0ciA9ICdubyBJIGdldCBjYWxsZWQgZnJvbSBwcmludC5qcyEnXHJcblx0XHRjb25zb2xlLmxvZyhzdHIpO1xyXG5cdFx0dmFyIGVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDJcIik7XHJcbiAgICBcdGVsZW1lbnQuaW5uZXJIVE1MID0gc3RyO1xyXG4gICAgXHRyZXR1cm4gZWxlbWVudDsqL1xyXG4vLyAgICBcdGNvbnNvbGUubG9nKFwiMTIzNDQ1P1wiKVxyXG4vLyAgICBcdHZhciBlbGVtZW50ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImgxXCIpO1xyXG4vLyAgICBcdGVsZW1lbnQuaW5uZXJIVE1MID0gXCLkuI3opoHliqDmianlsZXlkI0g5Z2R5q+UIHdvcmxkIVwiO1xyXG4vLyAgICBcdHJldHVybiBlbGVtZW50O1xyXG4vL1x0fSBcclxuLy99XHJcblxyXG5jb25zb2xlLmxvZyhcIlRoZSBwcmludC5qcyBtb2R1bGUgaGFzIGxvYWRlZCEgU2VlIHRoZSBuZXR3b3JrIHRhYiBpbiBkZXYgdG9vbHMuLi5cIik7XHJcblxyXG5leHBvcnQgZGVmYXVsdCgpID0+IHtcclxuICAgIGNvbnNvbGUubG9nKFwiQnV0dG9uIENsaWNrZWQ6IEhlcmVcXCdzICdzb21lIHRleHQnIVwiKTtcclxufVxuXG5cbi8vLy8vLy8vLy8vLy8vLy8vL1xuLy8gV0VCUEFDSyBGT09URVJcbi8vIC4vc3JjL3ByaW50LmpzXG4vLyBtb2R1bGUgaWQgPSA0XG4vLyBtb2R1bGUgY2h1bmtzID0gMCJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///4\n");
+
+/***/ })
+
+});
